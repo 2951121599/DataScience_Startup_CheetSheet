@@ -23,3 +23,5 @@ Python、R、Julia数据科学入门速查表
   - 安装与引入
   - 异常处理
   - 关键字
+  
+<img src="./Python、R、Julia数据科学入门速查表.png" alt="CheetSheet">
